@@ -81,7 +81,7 @@ Tao should __only__ be conducted by group leaders.
 The overarching research question is _“What drive potential costomers to make a purchase?”_ 
 
 ### Data Dictionary
-See the [data page](https://archive.ics.uci.edu/ml/machine-learning-databases/00468/online_shoppers_intention.csv). You will need to conduct an EDA to understand the data better. It is __on you__ to create a data dictionary like I gave you in Competition 1.
+See the [data page](https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset). You will need to conduct an EDA to understand the data better. It is __on you__ to create a data dictionary like I gave you in Competition 1.
 
 ### Suggested Tasks
 Following tasks are normally conduct in data preparation phase. __Not all steps are required/available in this particular dataset__ – and __not in this particular order__. Some additional step(s) might be required – which you might need to research on. Keep in mind that your decisions on different strategies below will determine the results.
